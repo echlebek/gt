@@ -4,9 +4,9 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"html/template"
 	"log"
 	"os"
+	"text/template"
 
 	"gopkg.in/yaml.v2"
 )
